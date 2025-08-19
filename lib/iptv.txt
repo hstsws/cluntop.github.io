@@ -2169,8 +2169,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•7『线路7』
 河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8$LR•IPV4•65『线路48』
 河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV6•65『线路49』
 河南卫视,http://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8$LR•IPV4•65『线路50』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1b41d0935dbc873fdfb9ca2147f791ef&wsTime=1755576149$LR•IPV4•65『线路51』
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•65『线路52』
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•65『线路51』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1b41d0935dbc873fdfb9ca2147f791ef&wsTime=1755576149$LR•IPV4•65『线路52』
 河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•65『线路53』
 河南卫视,http://148.135.93.213:81/live.php?id=河南卫视$LR•IPV4•65『线路54』
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•65『线路55』
@@ -3028,8 +3028,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•7『线路7』
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8$LR•IPV4•51『线路51』
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$LR•IPV4•4『线路1』
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$LR•IPV4•4『线路2』
-海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=fc25127b1755575314$LR•IPV4•4『线路3』
-海峡卫视,http://8.138.7.223/tv/fjtv1.php?id=hxws$LR•IPV4•4『线路4』
+海峡卫视,http://8.138.7.223/tv/fjtv1.php?id=hxws$LR•IPV4•4『线路3』
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=fc25127b1755575314$LR•IPV4•4『线路4』
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$LR•IPV4•31『线路1』
 兵团卫视,http://8.138.7.223/tv/btws.m3u8$LR•IPV4•31『线路2』
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv$LR•IPV4•31『线路3』
@@ -3731,10 +3731,10 @@ CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0i
 金鹰卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•45『线路28』
 金鹰卡通,https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•45『线路29』
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•45『线路30』
-金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWUyZGE0ZjMzNjU2ZWM0MGM1ZjM0NGI5N2FiNjYxOWFmJnVpZD0mdXVpZD1kOTQ4ZWQxN2E0NjJlNTk5ZDE0ODQ1YTdkODc0NGM4My02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NTg0Njk5/JYKTMPP360.m3u8$LR•IPV4•45『线路31』
-金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•45『线路32』
-金鹰卡通,http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•45『线路33』
-金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•45『线路34』
+金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•45『线路31』
+金鹰卡通,http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•45『线路32』
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•45『线路33』
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWUyZGE0ZjMzNjU2ZWM0MGM1ZjM0NGI5N2FiNjYxOWFmJnVpZD0mdXVpZD1kOTQ4ZWQxN2E0NjJlNTk5ZDE0ODQ1YTdkODc0NGM4My02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NTg0Njk5/JYKTMPP360.m3u8$LR•IPV4•45『线路34』
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•45『线路35』
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路36』
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路37』
